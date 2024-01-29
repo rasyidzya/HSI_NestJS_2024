@@ -1,0 +1,15 @@
+Bismilah,
+
+untuk level 0 silahkan teman2 pelajari
+1. Variabel (number, string, booelan, array, object)
+2. Condition
+3, Loop
+4. Function 
+5. Class
+6. Type atau Interface
+
+Sumber Belajar : https://www.tutorialsteacher.com/typescript
+Sumber Lain (Bahasa Indonesia): https://materi-fullstack-nfvh.vercel.app/
+
+
+Apabila ada yang kesulitan boleh share di grup ini
